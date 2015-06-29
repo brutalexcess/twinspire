@@ -1,0 +1,19 @@
+{
+	"currentScene": "MainScene",
+	"scenes": [
+		{
+			"name": "MainScene",
+			"layers": [
+				{
+					"members": [
+						{
+							"name": "myTextField",
+							"type": "TextField",
+							"script": "myTextField.x = 50; myTextField.y = 50; myTextField.text = 'Hello, there.';"
+						}
+					]
+				}
+			]
+		}
+	]
+}
